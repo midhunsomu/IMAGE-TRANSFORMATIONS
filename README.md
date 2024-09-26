@@ -232,40 +232,32 @@ show_image(cropped_image)
 ```
 ## Output:
 ### i)Image Translation
-![image](https://github.com/user-attachments/assets/0176a668-2307-4cb0-bd76-a69554277c6c)
+![image](https://github.com/user-attachments/assets/cad21cfa-a615-4109-9a7f-95963d1f9340)
 
-![image](https://github.com/user-attachments/assets/6f5168ce-3fe9-4762-852a-e26995765653)
 
 ### ii) Image Scaling
-![image](https://github.com/user-attachments/assets/3a564564-efd4-4d67-8786-d11a791fca79)
-
-![image](https://github.com/user-attachments/assets/6ad8b88c-e5fc-4cca-bd75-321f4c0d2fbd)
+![image](https://github.com/user-attachments/assets/008c77a9-8edf-492d-b81a-7dcc2290b050)
 
 
 ### iii)Image shearing
-![image](https://github.com/user-attachments/assets/ae626932-4326-4543-b535-c91f06fe0529)
+![image](https://github.com/user-attachments/assets/c73a4734-e7cf-4a38-b1e4-4b80b6a2b420)
 
-![image](https://github.com/user-attachments/assets/15b07eda-aabf-4955-a478-ffe5cda80079)
 
 ### iv)Image Reflection
-![image](https://github.com/user-attachments/assets/536c3836-fabb-401b-9951-afce5cf5c102)
+![image](https://github.com/user-attachments/assets/b860fcb9-d130-4987-9130-e22ec61e636b)
 
-![image](https://github.com/user-attachments/assets/c53929f7-17e2-45aa-b8a7-3e342770cc89)
 
-![image](https://github.com/user-attachments/assets/ff009104-26dc-4da0-b985-467b75a5f403)
+![image](https://github.com/user-attachments/assets/b1825fa9-3528-4436-b077-94e97f2785d8)
 
-![image](https://github.com/user-attachments/assets/1120d1ec-90b4-4efc-a7f6-4e331470b9eb)
 
 ### v)Image Rotation
-![image](https://github.com/user-attachments/assets/ae37e972-4725-49ae-ba82-9f92b71f4d48)
+![image](https://github.com/user-attachments/assets/1e55c46f-9de9-4d46-b6dd-e14b368ca121)
 
-![image](https://github.com/user-attachments/assets/8dbefec7-d371-41ff-adab-723e0b48eec2)
 
 
 ### vi)Image Cropping
-![image](https://github.com/user-attachments/assets/426ce1e1-3525-4aed-b022-6367aac3094e)
+![image](https://github.com/user-attachments/assets/e7b5b375-7b69-4684-85bf-6871e3224e8a)
 
-![image](https://github.com/user-attachments/assets/13ba56d3-a0b3-4263-a7f1-9d67e58344dd)
 
 ## Result: 
 
